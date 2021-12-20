@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Augusto Nascimento 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/augustodev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](augustomn91@gmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/augustodev/" targer="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targer="_blank"></a>
+  <a href="mailto:augustomn91@gmail.com" targer="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targer="_blank"></a>
+</div><br/>
 
 [![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustomn91&show_icons=true&theme=tokyonight)
 
