@@ -5,7 +5,7 @@
   <a href="mailto:augustomn91@gmail.com" targer="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targer="_blank"></a>
 </div><br/>
 
-[![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustomn91&show_icons=true&theme=tokyonight)
+![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustomn91&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia 👨‍💻
 
