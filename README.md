@@ -16,4 +16,3 @@
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div><br/>
 
-Criatividade promove inovação, e a tecnologia ajuda a melhorar e ir além do que se pode imaginar! ❤️
